@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning js And react js
 - 💞️ I’m looking to collaborate with dynamic teams
 - 📫 contact me at faheemmateenkhan@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: love the output of my code ever it makes me curious 
+- ⚡ Fun fact: love the output of my code always it makes me curious 
 
 <!---
 FaheemMateen/FaheemMateen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
